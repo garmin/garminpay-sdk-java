@@ -20,7 +20,7 @@ Please contact Garmin for onboarding instructions for your use case.
 
 ### Gradle
 
-`implementation "com.garmin:garminpay:1.0.2"`
+`implementation "com.garmin:garminpay:1.0.3"`
 
 ### Maven
 
@@ -28,7 +28,7 @@ Please contact Garmin for onboarding instructions for your use case.
 <dependency>
   <groupId>com.garmin</groupId>
   <artifactId>garminpay</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
 </dependency>
 ```
 
